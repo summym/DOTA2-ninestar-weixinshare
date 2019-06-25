@@ -4,4 +4,4 @@
 本程序使用了requests库来实现直接post request。
 
 使用方法：
-手机扫描二维码，将网址链接（https://act.dota2.com.cn/ti9Event/share?uid=XXXXXXX)中的XXXXX复制，输入程序，等待程序显示“Done”即可。
+手机扫描二维码，将网址链接（https://act.dota2.com.cn/ti9Event/share?uid=XXXXXXX )中的XXXXX复制，输入程序，等待程序显示“Done”即可。

@@ -6,5 +6,4 @@
 使用方法：
 手机扫描二维码，将网址链接（https://act.dota2.com.cn/ti9Event/share?uid=XXXXXXX )中的XXXXX复制，输入程序，等待程序显示“Done”即可。
 
-EXE下载：
-https://github.com/leaf7th/DOTA2-ninestar-weixinshare/releases
+[下载地址](https://github.com/leaf7th/DOTA2-ninestar-weixinshare/releases/tag/0.1)
